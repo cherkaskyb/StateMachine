@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using StateMachine;
+using StateMachine.Exceptions;
 
 namespace TestStateMachine
 {

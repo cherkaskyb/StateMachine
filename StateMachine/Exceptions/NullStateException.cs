@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StateMachine
+namespace StateMachine.Exceptions
 {
     public class NullStateException : Exception
     {

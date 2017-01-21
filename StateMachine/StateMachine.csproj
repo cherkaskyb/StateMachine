@@ -43,7 +43,7 @@
     <Compile Include="IState.cs" />
     <Compile Include="IStateMachine.cs" />
     <Compile Include="IStateMachineLogger.cs" />
-    <Compile Include="NullStateException.cs" />
+    <Compile Include="Exceptions\NullStateException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StateMachine.cs" />
     <Compile Include="StateResult.cs" />
